@@ -27,6 +27,9 @@
 #### team health
 - https://www.atlassian.com/team-playbook/health-monitor
 
+#### code health
+- https://github.com/boyter/scc
+
 #### retention
 - stay interview
 
